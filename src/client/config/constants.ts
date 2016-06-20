@@ -66,7 +66,12 @@ export const STRINGS = {
   updateTimezone: 'Update Timezone',
   timezone: 'Timezone',
   splitDelimiter: 'by',
-  any: 'any'
+  any: 'any',
+  include: 'Include',
+  exclude: 'Exclude',
+  intersection: 'Intersection',
+  stringSearch: 'String search',
+  regex: 'Regex'
 };
 
 
