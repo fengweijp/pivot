@@ -15,7 +15,7 @@ describe('FilterOptionsDropdown', () => {
     var renderedComponent = TestUtils.renderIntoDocument(
       <FilterOptionsDropdown
         selectedOption={null}
-        onSelectOption={null}
+        onSelectOption={() => {}}
       />
     );
 
